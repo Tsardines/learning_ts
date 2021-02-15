@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Tsardines/learning_ts/issues"
   },
-  "homepage": "https://github.com/Tsardines/learning_ts#readme"
+  "homepage": "https://github.com/Tsardines/learning_ts#readme",
+  "devDependencies": {
+    "typescript": "^4.1.5"
+  }
 }
